@@ -6,4 +6,5 @@ def szachownica(n, k):
             else:
                 print(" " * k + "#" * k, end="")
         print()
+
 szachownica(4, 3)
